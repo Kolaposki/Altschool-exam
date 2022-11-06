@@ -65,6 +65,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
+### Hosted
 Hosted link on Netlify: [https://altschool-second-exam.netlify.app/](https://altschool-second-exam.netlify.app/)
