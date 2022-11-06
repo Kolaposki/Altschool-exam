@@ -67,13 +67,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#� �C�u�s�t�o�m�-�C�o�u�n�t�e�r�-�A�p�p�
-�
-�#� �c�u�s�t�o�m�-�c�o�u�n�t�e�r�-�a�p�p�l�i�c�a�t�i�o�n�
-�
-�#� �C�u�s�t�o�m�-�C�o�u�n�t�e�r�-�A�p�p�
-�
-�
-
-Hosted link: https://custom-counter-app.vercel.app/
+Hosted link on Netlify: [https://altschool-second-exam.netlify.app/](https://altschool-second-exam.netlify.app/)
